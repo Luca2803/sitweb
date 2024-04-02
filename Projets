@@ -1,0 +1,86 @@
+!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<title>Projets | Mon Parcours Avenir</title>
+</head>
+<body>
+	<header>
+		<!-- Navigation -->
+		<nav class="menu-nav">
+			<ul>
+				<li class="bouton">
+					<a href="Accueil.html">
+						<h3>
+							Mon Parcours Avenir
+						</h3>
+					</a>
+				</li>
+				<li class="bouton">
+					<a class="nav" href="Accueil.html">
+						Accueil
+					</a>
+				</li>
+				<li class="bouton">
+					<a class="nav" href="#">
+						Mes Projets
+					</a>
+				</li>
+				<li class="bouton">
+					<a class="nav" href="Contact.html">
+						Contact 
+					</a>
+				</li>
+			</ul>
+		</nav>	
+	</header>
+
+	<br>
+	
+	<!-- Contenue -->
+	<h2 class="TitleBlue">
+		Mes Projets
+	</h2>
+	
+	<h3>
+		Programmation :
+	</h3>
+	<p>
+		Je programme beaucoup sur ma calculatrice Numwork au lycée durant mon temps libre. J'ai pu reproduire Pong avec les modules existants à l'intérieur (Ion, kandinsky, time...).  À présent je suis en train de reproduire le jeu Pac-Man sur le logiciel EduPython. En Science de l'ingénieur, nous avons fait quelque session Python pour découvrir des modules ou apprendre le language (Je m'amusai à les complexifier pour qu'il soit plus de mon niveau).
+	</p>
+
+	<br>
+	<br>
+	<br>
+	<br>
+	<h3>
+
+		Appareils Electroniques	:
+	</h3>
+
+	<p>
+		J'adore comprendre comment fonctionne un appareil électronique. J'ai commencé avec mon mini-robot Mbot que j'ai monté (Moteur, roue, capteur, carte programmable...) et maintenant je voudrais en refaire un de A à Z. Avec des logiciels de modélisation 3D tel que Autodesk Inventor ; Maths-Lab, Ce sont des logiciels que nous utilisons fréquemment en cours des Sciences de l'ingénieur. C'est de nouveau cette curiosité et cette passion que j'ai pour ce domaine qui me pousse à faire ce projet. 
+	</p>
+
+	<br>
+	<br>
+	<br>
+	<br>
+
+	<h3>
+		Gérer un système :
+	</h3>
+
+	<p>
+		Parmi mes recherches j'ai découvert un monde encore inconnu à mes yeux mais qui est pourtant partout dans notre quotidien.
+		"Le développement d'internet et du numérique ont fait de la cybersécurité un enjeu majeur pour les années à venir." Selon moi cette phrase que j'ai utlisée dans ma lettre de motivation pour rejoindre l'IUT Réseaux et Télécommunication est importante car il y a un manque d'expert dans ce domaine. Donc pourquoi pas en faire partie. 
+	</p>
+
+	<!-- Pied de Page -->
+	<footer class="footer">
+		Copyright &copy; Luca Dussol - 2024-2025 - All Right Reserved
+	</footer>
+</body>
+</html>
