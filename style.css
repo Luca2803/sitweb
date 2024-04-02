@@ -1,0 +1,116 @@
+html{
+	font-family: arial;
+	margin: 15px;
+}
+
+/*Div Page 1*/
+div#Content-page1 div{
+	display: inline-block;
+	width: 47.3%;
+	margin: 15px;
+}
+
+div#Content-page1 div.LeftBox-Page1{
+	background-color: #699FD8  ;
+	vertical-align: top;
+
+}
+
+div#Content-page1 div.RightBox-Page1{
+	background-color: #699FD8  ;
+	vertical-align: top;
+}
+/*Fin div page 1*/
+/*Div Page 2*/
+/*Fin div Page 2*/
+
+div#Content div p{
+	margin: 25px;
+}
+
+div#Content div h3{
+	margin: 25px;
+}
+
+nav.menu-nav ul li.bouton{
+	list-style-type: none ;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.bouton a.nav{
+	text-decoration: none ;
+	padding: 20px;
+	color: white;
+}
+
+nav.menu-nav ul li.bouton a{
+	text-decoration: none ;
+	color: white;
+}
+
+nav.menu-nav ul li.bouton:hover a.nav{
+	text-decoration: underline ;
+	font-size: 18px;
+	transition: 0.3s all;
+}
+
+body{
+	background-color: black;
+	color: white ;
+
+}
+h1{
+	font-size: 100px ;
+	margin: 25px;
+} 
+h2{
+	font-size: 50px ;
+	margin: 25px;
+} 
+
+p{
+	font-size: 25px;
+	margin: 25px;
+}
+
+h3{
+	font-size: 30px;
+	margin: 25px;
+}
+
+h3.TileBlue{
+	color: #97BDE6 ;
+}
+
+h2.TitleBlue{
+	color: #97BDE6 ;
+}
+
+img.Accueil-1{
+	width: 1000px;
+	margin: 25px;
+}
+img.Qui-suis-je{
+	width: 700px;
+	margin: 25px;
+}
+footer.footer{
+	margin: 60px;
+}
+
+#carre {
+  width  : 50px;
+  height : 50px;
+  background : white;
+}
+
+a.lien{
+	text-decoration: none ;
+	color: purple;
+}
+
+a.lien:hover{
+	text-decoration: underline ;
+	font-size: 26px;
+	transition: 0.3s all;
+}
